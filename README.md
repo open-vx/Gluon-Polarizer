@@ -3,9 +3,11 @@ Open source gluon polarizer design for &lt;$10
 
 ## Board previews:
 Top:
+
 ![pcb top](preview_top.jpg)
 
 Bottom:
+
 ![pcb bottom](preview_bottom.jpg)
 
 ## Assembly:
